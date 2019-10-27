@@ -1,6 +1,6 @@
 README
 Password generator with options of length, uppercase and lowercase letters, numbers
-and symbols. My first project using JavaScript. HTML and CSS also included.
+and symbols. Created with JavaScript, HTML and CSS.
 
 SCREENSHOT in repository.
 
